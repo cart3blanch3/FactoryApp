@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Carpenter">
+    <Position X="3.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAABAIAQAAIAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Carpenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleFilePrinter">
+    <Position X="20.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACIAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConsoleFilePrinter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JsonDataSerializer&lt;T&gt;" BaseTypeListCollapsed="true">
+    <Position X="26.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACBAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JsonDataSerializer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="XmlDataSerializer&lt;T&gt;" BaseTypeListCollapsed="true">
+    <Position X="24.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACBAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>XmlDataSerializer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FactoryApp.RawMaterialConfig">
+    <Position X="23" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAgAAAAAA=</HashCode>
+      <FileName>Configuration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryApp.Configuration">
+    <Position X="23" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAACAAQAAAABAAAAAAAAAAAgAg=</HashCode>
+      <FileName>Configuration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryApp.ConfigurationLoader" Collapsed="true">
+    <Position X="13.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConfigurationLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryApp.Employee">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACACAAABAAAAAEABAAAARAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryApp.EmployeeCollection&lt;T&gt;" BaseTypeListCollapsed="true">
+    <Position X="1.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAgAAAEAAAABAQAAgABAQAAAAAAAAEAABAIABQIAA=</HashCode>
+      <FileName>EmployeeCollection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FactoryApp.Enterprise">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAcAAAAEgwAAEgBIIAAkUBABCAAAAgQJAQAoIAAA=</HashCode>
+      <FileName>Enterprise.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryApp.FactoryException">
+    <Position X="19" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FactoryException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryApp.Furniture">
+    <Position X="18.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAQAAAAAOgAAAAAAAAAAAAIIAAQAEAAAAAAA=</HashCode>
+      <FileName>Furniture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryApp.Logger">
+    <Position X="20.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAhAAEAAQAAAAAAAAAA=</HashCode>
+      <FileName>Logger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryApp.Machine">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABCAAABAAABAAAAAAAAAkAAACAEQAAAAAAAABAFAAA=</HashCode>
+      <FileName>Machine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryApp.Manager">
+    <Position X="5.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAiAAABAAAAAAAAAAABAAIQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryApp.Material">
+    <Position X="16.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAEAAA=</HashCode>
+      <FileName>Material.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryApp.Order">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAAAAQAAAAIAAAAAAAAAAAAAAAAAQAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryApp.OrderGenerator">
+    <Position X="12" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAIAAAAAQAAAAAAAA=</HashCode>
+      <FileName>OrderGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryApp.Program">
+    <Position X="28.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryApp.Repairman">
+    <Position X="7.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAABAAAAAAAAAAAAgAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Repairman.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryApp.Warehouse">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQCAABAAAABAAgAAABAAAAAAAAgAAEAACAIAAg=</HashCode>
+      <FileName>Warehouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="IDataSerializer&lt;T&gt;">
+    <Position X="25.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACBAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IDataSerializer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="FactoryApp.EmployeeType">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAACAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FactoryApp.FurnitureType">
+    <Position X="18.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Furniture.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FactoryApp.MaterialType">
+    <Position X="16.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAEAAAAAAABCAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Material.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

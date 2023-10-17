@@ -49,7 +49,7 @@ namespace FactoryApp
                         await Task.Delay(5000); // Пауза перед генерацией новых заказов
 
                         // Завершение работы при достижении определенного бюджета
-                        if (enterprise.CurrentBudget >= 10000)
+                        if (enterprise.CurrentBudget >= 1000)
                         {
                             Console.WriteLine("Достигнут заданный бюджет. Завершение работы предприятия.");
 
